@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-fson-89/static/css/main.17654e45.css",
-    "main.js": "/react-fson-89/static/js/main.fcff886a.js",
+    "main.js": "/react-fson-89/static/js/main.29e99599.js",
     "index.html": "/react-fson-89/index.html",
     "main.17654e45.css.map": "/react-fson-89/static/css/main.17654e45.css.map",
-    "main.fcff886a.js.map": "/react-fson-89/static/js/main.fcff886a.js.map"
+    "main.29e99599.js.map": "/react-fson-89/static/js/main.29e99599.js.map"
   },
   "entrypoints": [
     "static/css/main.17654e45.css",
-    "static/js/main.fcff886a.js"
+    "static/js/main.29e99599.js"
   ]
 }
